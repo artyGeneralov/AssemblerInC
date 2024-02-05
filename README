@@ -1,0 +1,19 @@
+Two-pass Assembler.
+By: Artyom Generalov
+
+/***********/
+
+This assembler works for any .as assembly files
+
+Source Files in ./libs folder.
+Makefile in main folder.
+
+basic tests for the assembler provided in main folder:
+3 proper tests: porper_test.as proper_test2.as proper_test3.as
+1 test with errors: errored_test.as
+
+The file operators should be entered into the command line without ".as" suffix as required in the assignment.
+
+Clarification,
+for running the 4 tests use "./assembler proper_test proper_test_2 proper_test_3 errored_test"
+
