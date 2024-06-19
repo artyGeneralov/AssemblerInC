@@ -1,12 +1,5 @@
 #include "./headers/utils.h"
 
-
-/*	Two Pass Assembler
- * 	Written by : Artyom Generalov 319525671
- * 	*/
-
-
-
 int main(int argc, char * argv[])
 {
 
